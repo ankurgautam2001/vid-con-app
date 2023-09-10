@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import conf from "../src/assets/conf.jpg";
+import conf from "../src/assets/bgimg.jpg";
 import Navbar from "./components/Navbar";
 
 const Home = () => {
@@ -30,9 +30,9 @@ const Home = () => {
           {/* Main */}
           <div className=" flex flex-col items-center justify-center pb-8">
             <h1 className="text-[50px] md:text-[80px] text-white font-bold pt-12">
-              Video Chat App
+              Vid_con App
             </h1>
-            <p className="text-[26px] text-white  -mt-2">With ZegoCloud</p>
+            <p className="text-[26px] text-white  -mt-2">By- Ankur Gautam</p>
           </div>
 
           {/* Enter Code */}

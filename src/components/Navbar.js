@@ -10,7 +10,7 @@ const Navbar = () => {
             <img src={logo} alt="" className="object-cover " />
           </div>
           <div className="text-white font-bold">
-            <p className="text-[21px] pl-2">Video Call App</p>
+            <p className="text-[21px] pl-2">Vid_con App</p>
           </div>
         </div>
 
